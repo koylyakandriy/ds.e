@@ -8,6 +8,11 @@ $btn-primary-bg: var(--dse-btn-primary-bg, $green) !default;
 $btn-primary-bg-hover: var(--dse-btn-primary-bg-hover, $green-light) !default;
 
 /* FORMS COLORS */
+$form-border-color: var(--dse-form-border-color, $white-dark) !default;
+$form-bg-color: var(--dse-formbgr-color, $white) !default;
+$form-bg-color-selected: var(--dse-gr-color-selected, $green) !default;
+$form-color-selected: var(--dse-color-selected, $white) !default;
+$form-bg-color-hover: var(--dse-formbgr-color-hover, $white-dark) !default;
 $form-color: var(--dse-form-color, $dark) !default;
 $form-bg: var(--dse-form-bg, $white) !default;
 $form-error-color: var(--dse-form-error-color, $red) !default;

@@ -1,3 +1,6 @@
+/* BODY FONT FAMILY */
+$body-font-family: var(--dse-body-font-family, $playfair) !default;
+
 /* BODY TEXT SIZE */
 $body-font-size: var(--dse-body-font-size, $fs-sm) !default;
 $body-font-weight: var(--dse-body-font-weight, $fw-normal) !default;

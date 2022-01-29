@@ -2,3 +2,8 @@
 
 @import "base/reset";
 @import "base/root";
+
+body {
+	font-size: $body-font-size;
+	font-weight: $body-font-weight;
+}
